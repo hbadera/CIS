@@ -48,7 +48,7 @@ We will split our model into 20% testing and 80 % for training model.
 We build multiple machine learning models followed by classification report and confusion matrix.
 
 
-## The different accuracies in percentages which we recieved are as follows,
+## The different accuracies (in percentage) which we recieved are as follows,
 1. KNN 89.06
 2. Support Vector Machines 86.56
 3. Naive Bayes 82.81
