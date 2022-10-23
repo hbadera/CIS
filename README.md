@@ -5,15 +5,12 @@
 In this notebook, we perform three major tasks:
 
 ### Data Preparation
-
 Acquire the dataset from here and import the neccessary libraries to use
 
 ### Data Exploration
-
 Explore the dataset and make some data transformation and data visualization
 
 ### Data Modeling (Train & Test)
-
 Model the dataset with multiple machine learning models
 
 
