@@ -4,22 +4,25 @@
 
 In this notebook, we perform three major tasks:
 
-Data Preparation
+### Data Preparation
+
 Acquire the dataset from here and import the neccessary libraries to use
 
-Data Exploration
+### Data Exploration
+
 Explore the dataset and make some data transformation and data visualization
 
-Data Modeling (Train & Test)
+### Data Modeling (Train & Test)
+
 Model the dataset with multiple machine learning models
 
 
-"About the dataset"
+## About the Dataset
 The dataset provides information regarding the age ,gender and Estimated Salary. There is one more column in dataset which is our target variable i.e Purchased.
 We are going to apply multiple machine learning models and compare their accuracies.
 I have downloaded above dataset from kaggle which you can download from "[here]" "(kaggle kernels output aimanabdollah/suv-purchase-prediction -p /path/to/dest)".
 
-"Let’s get started"
+### Let’s Get Started
 First we will import the libraries which we are going to use in this model.
 
 
@@ -36,7 +39,7 @@ The dataset comprises of 5 columns:
 5.Purchased
 
 
-0 means that person has not purchased the car and 1 means has purchased the car.
+The value '0' means that the person has not purchased the car and '1' means that the person has purchased a car.
 
 
 
